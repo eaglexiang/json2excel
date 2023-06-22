@@ -1,4 +1,4 @@
-module json2excel
+module github.com/eaglexiang/json2excel
 
 go 1.20
 

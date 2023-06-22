@@ -1,5 +1,7 @@
 # json2excel
 
+[![Go](https://github.com/eaglexiang/json2excel/actions/workflows/go.yml/badge.svg)](https://github.com/eaglexiang/json2excel/actions/workflows/go.yml)
+
 Easy to convert JSON array to Excel table.
 
 ## Installing

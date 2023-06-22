@@ -11,11 +11,30 @@ go install github.com/eaglexiang/json2excel@latest
 
 ```
 
-or download from release.
-
 ## Usage
 
 ```shell
-json2excel if=src.json of=dst.xlsx
+json2excel if src.json of dst.xlsx
 
 ```
+
+```json
+// src.json
+
+[
+    {
+        "ID":0,
+        "Name":"Lucy",
+        "Age":17,
+        "Granted":true
+    },{
+        "ID":1,
+        "Name":"Lily",
+        "Age":20,
+        "Granted":false
+    }
+]
+
+```
+
+![Alt text](image.png)

@@ -16,7 +16,7 @@ go install github.com/eaglexiang/json2excel@latest
 ## Usage
 
 ```shell
-json2excel if src.json of dst.xlsx
+json2excel --if src.json --of dst.xlsx
 
 ```
 

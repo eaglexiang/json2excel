@@ -6,7 +6,7 @@ Easy to convert JSON array to Excel table.
 
 ## Installing
 
-You can build and install from source:
+You can download from [Release](https://github.com/eaglexiang/json2excel/releases/latest) or build and install from source:
 
 ```shell
 go install github.com/eaglexiang/json2excel@latest
